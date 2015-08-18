@@ -1,0 +1,5 @@
+Django==1.8.3
+django-polls==0.1
+optional-django==0.3.0
+react==1.0.0
+requests==2.7.0
